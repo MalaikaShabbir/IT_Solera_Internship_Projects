@@ -1,10 +1,8 @@
 # AI Internship Projects at ITSOLERA
 
 **Internship Duration:** July 24, 2024 – October 24, 2024    
-**Team Lead:** Malaika Shabbir  
-**Team Size:** 7
 
-Welcome! This repository showcases a portfolio of AI-driven projects developed during my internship at [ITSOLERA](https://itsolera.com). As team lead, I guided a talented group of interns in designing, developing, and deploying innovative solutions in artificial intelligence and machine learning. These projects reflect our collaborative effort, technical expertise, and commitment to delivering impactful results.
+Welcome! This repository showcases a portfolio of AI-driven projects developed during my internship at [ITSOLERA](https://itsolera.com). 
 
 ---
 
@@ -28,15 +26,6 @@ Research and development of AI models capable of iterative self-improvement thro
 
 ---
 
-## My Contributions
-
-- **Team Leadership:** Managed a cross-functional team of 7, assigning tasks and ensuring effective collaboration.
-- **Technical Oversight:** Guided the design and implementation of AI models and systems.
-- **Project Management:** Tracked progress, maintained documentation, and ensured project milestones were met.
-- **Quality Assurance:** Reviewed code, evaluated model performance, and implemented best practices.
-
----
-
 ## Technologies Used
 
 - Python, PyTorch, TensorFlow
@@ -48,4 +37,4 @@ Research and development of AI models capable of iterative self-improvement thro
 ---
 ## Acknowledgements
 
-Grateful to [ITSOLERA](https://itsolera.com) for the opportunity and to my amazing team for their dedication and creativity.
+Grateful to [ITSOLERA](https://itsolera.com) for the opportunity.

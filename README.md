@@ -4,7 +4,7 @@
 **Team Lead:** Malaika Shabbir  
 **Team Size:** 7
 
-Welcome! This repository showcases a portfolio of AI-driven projects developed during my internship at ITSOLERA. As team lead, I guided a talented group of interns in designing, developing, and deploying innovative solutions in artificial intelligence and machine learning. These projects reflect our collaborative effort, technical expertise, and commitment to delivering impactful results.
+Welcome! This repository showcases a portfolio of AI-driven projects developed during my internship at [ITSOLERA](https://itsolera.com). As team lead, I guided a talented group of interns in designing, developing, and deploying innovative solutions in artificial intelligence and machine learning. These projects reflect our collaborative effort, technical expertise, and commitment to delivering impactful results.
 
 ---
 
@@ -48,4 +48,4 @@ Research and development of AI models capable of iterative self-improvement thro
 ---
 ## Acknowledgements
 
-Grateful to ITSOLERA[https://itsolera.com] for the opportunity and to my amazing team for their dedication and creativity.
+Grateful to [ITSOLERA](https://itsolera.com) for the opportunity and to my amazing team for their dedication and creativity.
